@@ -1,0 +1,7 @@
+homeless		0.549287
+volunteer		-0.788744
+low eng prof	0.643057
+multi				0.643019
+total off			0.404212
+cmty active		-0.811423
+attend cmty	-0.79246
